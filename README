@@ -1,0 +1,7 @@
+This is a program to implement the activity selection last-to-start algorithm. The program will read input from a file named act.txt. The file contains lists of activity sets with number of activities in the set in the first line followed by lines containing the activity number, start time, and finish time.
+
+Use command make to compile the program
+Then use the below command to run the program
+	./act
+
+
